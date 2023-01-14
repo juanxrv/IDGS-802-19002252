@@ -1,1 +1,3 @@
-print('ola')
+
+def suma()
+  print('ola')
